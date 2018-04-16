@@ -1,0 +1,12 @@
+HouseCheckerApp/packages/
+HouseCheckerApp/HouseCheckerApp/obj/
+HouseCheckerApp/.vs/
+HouseCheckerApp/HouseCheckerApp/App_ReadMe/
+HouseCheckerApp/HouseCheckerApp/bin/
+HouseCheckerApp/HouseCheckerApp/Resources/
+*.config
+HouseCheckerApp/HouseCheckerApp/Properties/
+*.sln
+*.csproj
+*.axml
+*.png
